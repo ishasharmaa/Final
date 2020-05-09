@@ -1,1 +1,31 @@
 /* You can add global styles to this file, and also import other style files */
+.head {
+    border: 1px solid teal;
+    background-color: teal;
+    text-align: center;
+    margin: 40px auto;
+    height: 200px;
+    width: 60%;
+    padding: 50px 50px;
+    font-weight: 900;
+  }
+  .body {
+      text-align: center;
+  }
+  .button {
+      align-items: center;
+  }
+
+  .Numbers {
+    padding: 50px;
+  }
+  
+  input,
+  label {
+    display: inline;
+  }
+  
+  #invalid {
+    background-color: red;
+  }
+  
